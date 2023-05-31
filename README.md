@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Augustine0306/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119404460/301b2233-1e81-4866-9215-3635bb533d88)
+![chess board](https://github.com/TejaswiniGugananthan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121222763/e15dd3b2-81cb-4304-b83d-fa3bda93474c)
+![coins](https://github.com/TejaswiniGugananthan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121222763/d2d0f2b8-fc10-4312-9c79-da4c417bd9a5)
 
 ### Name: TEJASWINI.G
 ### Register Number:212222230157
